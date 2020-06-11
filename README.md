@@ -13,7 +13,7 @@
 * Step2: Recommendation using existing machine learning algorithms (You can use prediction or classification)
 
 # Data
-* Find shopping.csv here.
+* Find shopping.csv here in this archive.
 * [IP],[item#],[item#],[item#],[item#], ..., [item#]
 * item# means item number, for example, the number for a book or something.
 * The last [item#] is the item addded to a cart. 
