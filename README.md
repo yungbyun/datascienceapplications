@@ -14,8 +14,10 @@
 * Do your work using Kaggle.com or Google Colab and send me(yungcheolbyun@gmail.com) the link by June 25th.
 
 # Data
-* Find shopping.csv here in this archive.
-* [IP],[item#],[item#],[item#],[item#], ..., [item#]
-* item# means item number, for example, the number for a book or something.
-* The last [item#] is the item addded to a cart. 
-* Please contact Ms. Zeinab to get more information about the file if you want.)
+* Find shopping_new.csv here in this archive.
+* [item#],[item#],[item#],[item#], ..., [item#] 
+* item# means item number# a user clicked, for example, the index for a book or something.
+* '0' value means no click to fill the black columns(like padding). 
+* The first 100 columns will be input and the last item# is a ground truth.
+* The last [item#] is the item addded to a cart (item to purchase).  <br/>
+* Please contact Ms. Zeinab to get more information about the file if you want.
