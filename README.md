@@ -11,6 +11,7 @@
 * The mission is to do below:
 * Step1: Data Analysis showing some graphes (anything would be ok including basic statistics)
 * Step2: Recommendation using existing machine learning algorithms (You can use prediction or classification)
+* Do your work using Kaggle.com or Google Colab and send me(yungcheolbyun@gmail.com) the link by June 25th.
 
 # Data
 * Find shopping.csv here in this archive.
