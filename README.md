@@ -18,4 +18,4 @@
 * [IP],[item#],[item#],[item#],[item#], ..., [item#]
 * item# means item number, for example, the number for a book or something.
 * The last [item#] is the item addded to a cart. 
-* Please contact Ms. Wafa to get more information about the file if you want.)
+* Please contact Ms. Zeinab to get more information about the file if you want.)
